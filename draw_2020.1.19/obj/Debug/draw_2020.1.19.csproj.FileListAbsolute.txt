@@ -1,0 +1,50 @@
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe.config
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.pdb
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csprojAssemblyReference.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020._1._19.Properties.Resources.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.GenerateResource.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.CoreCompileInputs.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.exe
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.pdb
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form1.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form2.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form3.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe.config
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.pdb
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csprojAssemblyReference.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form1.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form2.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form3.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020._1._19.Properties.Resources.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.GenerateResource.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.CoreCompileInputs.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.exe
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.pdb
+D:\Lai yen\學習相關\元智\實習\欣銓\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form4.resources
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe.config
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.pdb
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csprojAssemblyReference.cache
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form1.resources
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form2.resources
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form3.resources
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form4.resources
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020._1._19.Properties.Resources.resources
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.GenerateResource.cache
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.exe
+D:\training\2020.1.17_C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.pdb
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe.config
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.exe
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\bin\Debug\draw_2020.1.19.pdb
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csprojAssemblyReference.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form1.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form2.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form3.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020_1_19.Form4.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020._1._19.Properties.Resources.resources
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.GenerateResource.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.csproj.CoreCompileInputs.cache
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.exe
+D:\Lai yen\學習相關\元智\實習\欣銓\training\C#\draw_2020.1.19\draw_2020.1.19\obj\Debug\draw_2020.1.19.pdb
